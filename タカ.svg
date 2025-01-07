@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="256"
+   height="160"
+   viewBox="0 0 67.73333 42.333333"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="タカ.svg"
+   inkscape:export-filename="富士.png"
+   inkscape:export-xdpi="192"
+   inkscape:export-ydpi="192"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="3.3210999"
+     inkscape:cx="137.30391"
+     inkscape:cy="209.56913"
+     inkscape:window-width="3840"
+     inkscape:window-height="2126"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer6">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="8.4666664"
+       spacingy="8.4666664"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="2"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <filter
+       id="mask-powermask-path-effect222_inverse"
+       inkscape:label="filtermask-powermask-path-effect222"
+       style="color-interpolation-filters:sRGB"
+       height="100"
+       width="100"
+       x="-50"
+       y="-50">
+      <feColorMatrix
+         id="mask-powermask-path-effect222_primitive1"
+         values="1"
+         type="saturate"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="mask-powermask-path-effect222_primitive2"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 "
+         in="fbSourceGraphic" />
+    </filter>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Layer 1">
+    <path
+       id="path2"
+       style="color:#000000;fill:#000000;stroke-linecap:square;-inkscape-stroke:none"
+       d="M 17.353462 8.9942828 C 17.076364 13.512744 13.512744 17.076364 8.9942828 17.353462 L 8.9942828 24.862564 C 11.785049 24.774477 14.396285 23.99043 16.666166 22.677685 L 17.125052 22.412068 L 17.654219 23.328291 L 17.197399 23.593908 C 14.771805 24.996708 11.974786 25.832289 8.9942828 25.920898 L 8.9942828 33.285306 C 22.307238 33.0018 33.001801 22.307236 33.285306 8.9942828 L 30.64464 8.9942828 L 17.353462 8.9942828 z M 22.56503 16.473413 L 23.623364 16.473413 L 23.623364 17.531746 L 22.56503 17.531746 L 22.56503 16.473413 z " />
+    <path
+       id="rect4"
+       style="fill:#000000;stroke-width:0.52916665;stroke-linecap:square;stroke-dasharray:none;fill-opacity:1"
+       d="M 38.628649 8.9963498 L 38.628649 13.22865 L 34.396349 13.22865 L 34.396349 20.636466 L 38.628649 20.636466 L 38.628649 21.166149 C 38.628649 23.602589 36.760514 25.546197 34.396349 25.822196 L 34.396349 33.230529 C 40.863581 32.938207 46.036983 27.706303 46.036982 21.166149 L 46.036982 20.636466 L 51.330199 20.636466 L 51.330199 25.929683 L 47.095832 25.929683 L 47.095832 33.338016 L 50.801032 33.338016 L 55.033332 33.338016 L 58.738532 33.338016 L 58.738532 16.93385 L 58.738532 13.22865 L 46.036982 13.22865 L 46.036982 8.9963498 L 38.628649 8.9963498 z " />
+  </g>
+</svg>

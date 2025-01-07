@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="256"
+   height="160"
+   viewBox="0 0 67.73333 42.333333"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="フジ.svg"
+   inkscape:export-filename="富士.png"
+   inkscape:export-xdpi="192"
+   inkscape:export-ydpi="192"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="6.6421998"
+     inkscape:cx="112.31219"
+     inkscape:cy="82.803893"
+     inkscape:window-width="3840"
+     inkscape:window-height="2126"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="8.4666664"
+       spacingy="8.4666664"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="2"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <filter
+       id="mask-powermask-path-effect222_inverse"
+       inkscape:label="filtermask-powermask-path-effect222"
+       style="color-interpolation-filters:sRGB"
+       height="100"
+       width="100"
+       x="-50"
+       y="-50">
+      <feColorMatrix
+         id="mask-powermask-path-effect222_primitive1"
+         values="1"
+         type="saturate"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="mask-powermask-path-effect222_primitive2"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 "
+         in="fbSourceGraphic" />
+    </filter>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="g166"
+     inkscape:label="富士山"
+     style="display:none"
+     transform="translate(0,-8.466666)">
+    <path
+       id="path163"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.19459;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       d="m 8.4666664,16.933332 v 8.466666 H 25.399999 a 8.4666663,8.4666665 0 0 1 -8.466666,8.466667 H 8.4666664 v 8.466666 H 16.933333 A 16.933332,16.933334 0 0 0 33.866665,25.399998 v -8.466666 z" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32291;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       id="rect163"
+       width="16.933332"
+       height="8.4666653"
+       x="33.866665"
+       y="16.933332" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32291;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       id="rect164"
+       width="16.933332"
+       height="8.4666672"
+       x="33.866665"
+       y="25.399998" />
+    <path
+       id="path164"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32291;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       d="m 50.799998,21.166665 v 12.7 H 33.866665 v 8.466666 h 16.933333 a 8.4666672,8.4666662 0 0 0 8.466667,-8.466666 v -12.7 z" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32291;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       id="rect165"
+       width="8.4666662"
+       height="8.4666653"
+       x="46.566666"
+       y="12.699999" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32291;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       id="rect166"
+       width="8.4666662"
+       height="8.4666653"
+       x="55.033333"
+       y="12.7" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="富士山"
+     style="display:inline;stroke:#ffffff;stroke-opacity:1;stroke-width:1.0583333;stroke-dasharray:none"
+     transform="translate(0,-8.4666659)">
+    <path
+       id="path190"
+       style="display:inline;stroke:none;stroke-opacity:1;stroke-width:1.0583333;stroke-dasharray:none;fill:#000000;fill-opacity:1;stroke-linecap:square"
+       d="M 47.095832 13.228649 L 47.095832 16.404166 L 47.095832 20.636465 L 50.271349 20.636465 L 54.503648 20.636465 L 54.503648 13.228649 L 47.095832 13.228649 z M 55.562498 13.228649 L 55.562498 20.636465 L 59.794798 20.636465 L 62.970832 20.636465 L 62.970832 13.228649 L 55.562498 13.228649 z M 8.9963498 17.463016 L 8.9963498 24.870832 L 25.400516 24.870832 L 25.91418 24.870832 L 25.929683 25.384496 C 26.075369 30.432179 21.434639 34.77819 16.421736 34.396349 L 8.9963498 34.396349 L 8.9963498 41.794863 C 12.519985 41.754104 16.021625 41.955474 19.449458 41.611412 C 26.90619 40.598512 33.074161 33.777931 33.316312 26.253693 C 33.327051 25.555383 33.333817 24.716668 33.338016 23.849706 L 33.338016 18.347199 C 33.337236 18.137664 33.336261 17.542464 33.335949 17.463016 L 8.9963498 17.463016 z M 34.397383 17.463016 C 34.399946 18.173627 34.410505 21.872541 34.385497 24.871349 L 50.271349 24.871349 L 50.271349 21.695315 L 46.036982 21.695315 L 46.036982 17.463016 L 34.397383 17.463016 z M 51.330199 21.695315 L 51.330199 25.929682 L 51.330199 34.396349 L 34.396349 34.396349 L 34.396349 41.804682 L 50.810334 41.804682 L 50.820152 41.804682 C 53.425894 41.90199 55.486297 40.693222 56.882831 38.843622 C 58.279368 36.994022 58.973085 34.498363 58.740082 32.128787 L 58.738532 32.101398 L 58.738532 21.695315 L 55.562498 21.695315 L 54.503648 21.695315 L 51.330199 21.695315 z M 34.396349 25.929682 L 34.396349 33.338015 L 50.271349 33.338015 L 50.271349 25.929682 L 34.396349 25.929682 z " />
+  </g>
+</svg>

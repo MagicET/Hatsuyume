@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="352"
+   height="160"
+   viewBox="0 0 93.133329 42.333333"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="フジ.svg"
+   inkscape:export-filename="富士.png"
+   inkscape:export-xdpi="192"
+   inkscape:export-ydpi="192"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="6.6421998"
+     inkscape:cx="112.31219"
+     inkscape:cy="82.803893"
+     inkscape:window-width="3840"
+     inkscape:window-height="2126"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="8.4666664"
+       spacingy="8.4666664"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="2"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:groupmode="layer"
+     id="g166"
+     inkscape:label="富士山"
+     style="display:inline"
+     transform="translate(0,-8.466666)">
+    <g
+       id="rect1"
+       style="display:inline">
+      <path
+         id="path21"
+         style="color:#000000;fill:#000000;stroke-linecap:square;-inkscape-stroke:none"
+         d="m 72.496348,13.228649 v 7.407816 h 7.407816 v -7.407816 z m 8.466666,0 v 7.407816 h 3.703133 3.705201 v -7.407816 z m -63.499998,4.234367 v 8.466666 H 8.9963498 v 7.408333 h 8.4666662 v 8.35918 c 4.128281,-0.285989 7.408334,-3.627935 7.408333,-7.830013 v -0.529167 h 8.466667 v -7.408333 h -8.466667 v -8.466666 z m 16.933333,0 v 7.408333 h 16.93385 v 0.529167 c 0,4.961978 -4.034372,8.995833 -8.99635,8.995833 h -7.9375 v 7.408333 h 7.9375 c 2.887217,-5.6e-5 5.722303,-0.762066 8.220687,-2.209168 l 0.265616,-0.153995 0.265617,0.153995 c 2.331588,1.350508 4.965464,2.044278 7.652763,2.138888 v -7.408333 c -0.578221,-0.03806 -1.157841,-0.08188 -1.718758,-0.230477 l -0.656291,-0.173633 0.328145,-0.593762 c 1.341287,-2.427481 2.046103,-5.154289 2.046904,-7.927681 v -7.9375 z m 25.398449,0 v 15.878617 0.525549 c 0,4.390017 3.547483,7.9375 7.9375,7.9375 H 84.136464 V 34.396349 H 67.205198 v -5.2927 h 16.931266 v -7.408333 h -3.17345 -1.05885 -7.407816 -5.29115 v -4.2323 z" />
+    </g>
+  </g>
+</svg>

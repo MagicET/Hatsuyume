@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="352"
+   height="160"
+   viewBox="0 0 93.133329 42.333333"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="タカ.svg"
+   inkscape:export-filename="オウギ.png"
+   inkscape:export-xdpi="192"
+   inkscape:export-ydpi="192"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="3.3210999"
+     inkscape:cx="137.30391"
+     inkscape:cy="209.56913"
+     inkscape:window-width="3840"
+     inkscape:window-height="2126"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer6">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="8.4666664"
+       spacingy="8.4666664"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="2"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Layer 1">
+    <path
+       id="path49"
+       style="color:#000000;fill:#000000;stroke-linecap:square;-inkscape-stroke:none"
+       d="m 68.234076,8.9668943 v 4.2322997 h -8.437211 v 3.734656 c 0,0.331024 -0.01124,0.658966 -0.02946,0.985469 v 2.717147 h 7.966956 0.527099 v 1.05885 h -0.527099 -7.966956 v 7.437272 h 8.466667 v 4.234367 h 7.465177 v -4.234367 h 8.466666 v -7.437272 h -7.966955 -0.5271 v -1.05885 h 0.5271 7.966955 v -3.17345 H 80.963014 71.437498 V 8.9668943 Z m -46.53876,0.029456 V 13.22865 H 8.9958331 v 7.407816 H 19.087723 l -0.789099,0.88315 c -2.383292,2.664619 -5.746075,4.201265 -9.3027909,4.353223 v 7.420218 C 13.279334,33.162874 17.426121,31.73643 20.847305,29.140856 l 0.848011,-0.642855 v 4.840015 h 7.407816 v -12.70155 h 4.234883 V 13.22865 H 29.103132 V 8.9963499 Z m 21.167699,0 V 13.22865 h -8.466666 v 7.937499 0.529167 3.175517 h 7.408333 v -4.234367 h 8.755538 l -0.458887,0.7953 c -1.511844,2.618612 -4.24405,4.237827 -7.238318,4.42557 v 0.07235 7.355623 c 8.814682,-0.285539 15.875001,-7.466819 15.875,-16.351456 v -3.7052 H 50.271348 V 8.9963499 Z m 29.632816,0 v 7.4078157 h 7.408333 V 8.9963499 Z m 8.467183,0 V 16.404166 H 88.37083 V 8.9963499 Z" />
+    <g
+       id="path51">
+      <path
+         style="color:#000000;fill:#000000;stroke-linecap:square;-inkscape-stroke:none"
+         d="m 50.799999,21.166667 h 8.466667"
+         id="path74" />
+    </g>
+    <g
+       id="path52">
+      <path
+         style="color:#000000;fill:#000000;stroke-linecap:square;-inkscape-stroke:none"
+         d="M 76.199999,21.166667 H 67.733332"
+         id="path72" />
+    </g>
+  </g>
+</svg>

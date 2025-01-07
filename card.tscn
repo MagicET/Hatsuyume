@@ -1,0 +1,39 @@
+[gd_scene load_steps=7 format=3 uid="uid://caak5o4s6yj61"]
+
+[ext_resource type="Script" path="res://card.gd" id="1_opsi4"]
+[ext_resource type="Texture2D" uid="uid://d3j8t6xqsq362" path="res://カード.svg" id="2_cqwwh"]
+[ext_resource type="Texture2D" uid="uid://g5vws7m8oxn" path="res://なすび.svg" id="3_menb3"]
+[ext_resource type="Texture2D" uid="uid://4gu1xe88sg7k" path="res://フジ.svg" id="5_f1r3y"]
+[ext_resource type="Texture2D" uid="uid://chtlrupp5eayb" path="res://6.svg" id="5_imynu"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_art88"]
+size = Vector2(320, 448)
+
+[node name="card" type="Node2D"]
+script = ExtResource("1_opsi4")
+
+[node name="base" type="Sprite2D" parent="."]
+scale = Vector2(0.5, 0.5)
+texture = ExtResource("2_cqwwh")
+
+[node name="picture" type="Sprite2D" parent="."]
+scale = Vector2(0.5, 0.5)
+texture = ExtResource("3_menb3")
+
+[node name="Area2D" type="Area2D" parent="."]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Area2D"]
+visible = false
+shape = SubResource("RectangleShape2D_art88")
+
+[node name="name" type="Sprite2D" parent="."]
+position = Vector2(0, 168)
+scale = Vector2(0.25, 0.25)
+texture = ExtResource("5_f1r3y")
+
+[node name="number" type="Sprite2D" parent="."]
+position = Vector2(0, -165)
+scale = Vector2(0.25, 0.25)
+texture = ExtResource("5_imynu")
+
+[connection signal="input_event" from="Area2D" to="." method="_on_area_2d_input_event"]

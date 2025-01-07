@@ -1,0 +1,177 @@
+[gd_scene load_steps=29 format=3 uid="uid://uxa1v3025des"]
+
+[ext_resource type="Script" path="res://gamecontroller.gd" id="1_jxtab"]
+[ext_resource type="Texture2D" uid="uid://b6h08gjw32x4p" path="res://富士.svg" id="2_mp1b4"]
+[ext_resource type="Texture2D" uid="uid://doxkcbwa25knd" path="res://鷹.svg" id="3_exmpa"]
+[ext_resource type="Texture2D" uid="uid://g5vws7m8oxn" path="res://なすび.svg" id="4_0kml6"]
+[ext_resource type="Texture2D" uid="uid://4gu1xe88sg7k" path="res://フジ.svg" id="5_82b8u"]
+[ext_resource type="PackedScene" uid="uid://caak5o4s6yj61" path="res://card.tscn" id="5_bra4w"]
+[ext_resource type="Texture2D" uid="uid://8qh4th31jtr" path="res://扇.svg" id="5_ol5u4"]
+[ext_resource type="Texture2D" uid="uid://d3j8t6xqsq362" path="res://カード.svg" id="6_1d3l8"]
+[ext_resource type="Texture2D" uid="uid://vwxgetbe1f7m" path="res://煙草.svg" id="6_12r5n"]
+[ext_resource type="Texture2D" uid="uid://c0hwhg3sathhl" path="res://座頭.svg" id="7_ofwj2"]
+[ext_resource type="Texture2D" uid="uid://7fxwjlr2tm8y" path="res://1.svg" id="9_n162s"]
+[ext_resource type="Texture2D" uid="uid://c8ebtb7faivgl" path="res://タカ.svg" id="9_ygqa0"]
+[ext_resource type="Texture2D" uid="uid://dwiybjc218dab" path="res://2.svg" id="10_6t8w0"]
+[ext_resource type="Texture2D" uid="uid://civiq15gmfahj" path="res://ナスビ.png" id="10_yy3rx"]
+[ext_resource type="Texture2D" uid="uid://deypymvc8jf1h" path="res://オウギ.svg" id="11_gcslo"]
+[ext_resource type="Texture2D" uid="uid://dsckibi0kdqiw" path="res://3.svg" id="11_xv1id"]
+[ext_resource type="Texture2D" uid="uid://17ll12206cbk" path="res://タバコ.svg" id="12_kpnph"]
+[ext_resource type="Texture2D" uid="uid://bn7wi0h5vtw35" path="res://4.svg" id="12_mcbhd"]
+[ext_resource type="Texture2D" uid="uid://bghi21cr7sdae" path="res://ザトウ.svg" id="13_8bijd"]
+[ext_resource type="Texture2D" uid="uid://bqgbhluxkpjol" path="res://5.svg" id="13_fcwav"]
+[ext_resource type="Texture2D" uid="uid://chtlrupp5eayb" path="res://6.svg" id="14_mgb3w"]
+[ext_resource type="Texture2D" uid="uid://dy5doawxs3h54" path="res://人.svg" id="22_sf4l0"]
+[ext_resource type="Texture2D" uid="uid://1ullgbg33343" path="res://白.svg" id="23_m707b"]
+[ext_resource type="FontFile" uid="uid://osbvc0gcclc5" path="res://Mplus1-Bold.otf" id="24_d44g4"]
+[ext_resource type="Texture2D" uid="uid://bn37y2m8fdivj" path="res://もやもや.svg" id="25_uty8w"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_u6qjd"]
+size = Vector2(256, 256)
+
+[sub_resource type="Animation" id="Animation_60qrm"]
+resource_name = "start"
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("白:position")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 0.5),
+"transitions": PackedFloat32Array(2.21914, 0.5),
+"update": 0,
+"values": [Vector2(42.4998, 497), Vector2(42.5, 753)]
+}
+tracks/1/type = "value"
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/path = NodePath("Label:theme_override_colors/font_color")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/keys = {
+"times": PackedFloat32Array(0, 0.5),
+"transitions": PackedFloat32Array(1, 1),
+"update": 0,
+"values": [Color(0, 0, 0, 1), Color(0, 0, 0, 0)]
+}
+tracks/2/type = "value"
+tracks/2/imported = false
+tracks/2/enabled = true
+tracks/2/path = NodePath("もやもや:position")
+tracks/2/interp = 1
+tracks/2/loop_wrap = true
+tracks/2/keys = {
+"times": PackedFloat32Array(0, 0.5),
+"transitions": PackedFloat32Array(2.14355, 1),
+"update": 0,
+"values": [Vector2(0, 0), Vector2(0, -128)]
+}
+tracks/3/type = "value"
+tracks/3/imported = false
+tracks/3/enabled = true
+tracks/3/path = NodePath("もやもや:modulate")
+tracks/3/interp = 1
+tracks/3/loop_wrap = true
+tracks/3/keys = {
+"times": PackedFloat32Array(0, 0.5),
+"transitions": PackedFloat32Array(1, 1),
+"update": 0,
+"values": [Color(1, 1, 1, 0), Color(1, 1, 1, 1)]
+}
+tracks/4/type = "method"
+tracks/4/imported = false
+tracks/4/enabled = true
+tracks/4/path = NodePath(".")
+tracks/4/interp = 1
+tracks/4/loop_wrap = true
+tracks/4/keys = {
+"times": PackedFloat32Array(),
+"transitions": PackedFloat32Array(),
+"values": []
+}
+
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_fc76a"]
+_data = {
+"start": SubResource("Animation_60qrm")
+}
+
+[node name="Node2D" type="Node2D"]
+position = Vector2(960, 540)
+scale = Vector2(0.8, 0.8)
+script = ExtResource("1_jxtab")
+card_textures = Array[Texture2D]([ExtResource("2_mp1b4"), ExtResource("3_exmpa"), ExtResource("4_0kml6"), ExtResource("5_ol5u4"), ExtResource("6_12r5n"), ExtResource("7_ofwj2")])
+card_names = Array[Texture2D]([ExtResource("5_82b8u"), ExtResource("9_ygqa0"), ExtResource("10_yy3rx"), ExtResource("11_gcslo"), ExtResource("12_kpnph"), ExtResource("13_8bijd")])
+number_textures = Array[Texture2D]([ExtResource("9_n162s"), ExtResource("10_6t8w0"), ExtResource("11_xv1id"), ExtResource("12_mcbhd"), ExtResource("13_fcwav"), ExtResource("14_mgb3w")])
+index_colors = Array[Color]([Color(0.901961, 0.239216, 0.180392, 1), Color(0.180392, 0.564706, 0.901961, 1), Color(0.403922, 0.541176, 0.356863, 1), Color(0.909804, 0.729412, 0, 1), Color(0.533333, 0.313726, 0.701961, 1), Color(0.439216, 0.309804, 0.156863, 1)])
+back_texture = ExtResource("6_1d3l8")
+
+[node name="もやもや" type="Sprite2D" parent="."]
+texture_repeat = 2
+position = Vector2(0, -128)
+scale = Vector2(0.5, 0.5)
+texture = ExtResource("25_uty8w")
+region_enabled = true
+region_rect = Rect2(0, 0, 6000, 1280)
+
+[node name="Sprite2D" parent="もやもや" instance=ExtResource("5_bra4w")]
+position = Vector2(-1800, 0)
+scale = Vector2(2, 2)
+
+[node name="Sprite2D2" parent="もやもや" instance=ExtResource("5_bra4w")]
+scale = Vector2(2, 2)
+
+[node name="Sprite2D3" parent="もやもや" instance=ExtResource("5_bra4w")]
+scale = Vector2(2, 2)
+
+[node name="Sprite2D4" parent="もやもや" instance=ExtResource("5_bra4w")]
+scale = Vector2(2, 2)
+
+[node name="Sprite2D5" parent="もやもや" instance=ExtResource("5_bra4w")]
+scale = Vector2(2, 2)
+
+[node name="Sprite2D6" parent="もやもや" instance=ExtResource("5_bra4w")]
+scale = Vector2(2, 2)
+
+[node name="Timer" type="Timer" parent="."]
+one_shot = true
+
+[node name="白" type="Sprite2D" parent="."]
+z_index = -1
+position = Vector2(42.5, 753)
+scale = Vector2(11.9434, 2.13281)
+texture = ExtResource("23_m707b")
+
+[node name="Area2D" type="Area2D" parent="白"]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="白/Area2D"]
+shape = SubResource("RectangleShape2D_u6qjd")
+
+[node name="人" type="Sprite2D" parent="白"]
+position = Vector2(-3.55845, -112.996)
+scale = Vector2(0.0418643, 0.234432)
+texture = ExtResource("22_sf4l0")
+
+[node name="Label" type="Label" parent="."]
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -148.75
+offset_top = 365.0
+offset_right = 143.25
+offset_bottom = 435.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_colors/font_color = Color(0, 0, 0, 0)
+theme_override_fonts/font = ExtResource("24_d44g4")
+theme_override_font_sizes/font_size = 48
+text = "Click to play"
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="."]
+libraries = {
+"": SubResource("AnimationLibrary_fc76a")
+}
+
+[connection signal="input_event" from="白/Area2D" to="." method="_start"]
